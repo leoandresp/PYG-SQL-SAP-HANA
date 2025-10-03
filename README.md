@@ -55,7 +55,7 @@ Esta lógica asegura que los importes se calculen de manera precisa, respetando 
 
 **Leonardo Polanco**
 
-[LinkedIn de Leonardo Polanco](https://www.linkedin.com/in/leonardo-polanco-navas/)
+[LinkedIn](https://www.linkedin.com/in/leonardo-polanco-navas/)
 
 -----
 
